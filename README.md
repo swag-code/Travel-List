@@ -1,4 +1,3 @@
-Travel-List
 The Travel List web app is a simple and efficient application that allows users to create and manage a list of items they need for their travels. Whether it's packing essentials, travel documents, or activities to do, this app helps you stay organized and ensures you don't forget anything important. Built with React, it features a clean interface that makes adding, editing, and deleting items easy. Get ready for your next adventure with the Travel List React App!
 
 # Getting Started with Create React App
