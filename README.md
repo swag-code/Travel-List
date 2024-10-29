@@ -3,6 +3,7 @@ The Travel List web app is a simple and efficient application that allows users 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To install all the packages that are necessary for this application, open new terminal, type "npm install" or "npm i", and hit Enter.
 
 ## Available Scripts
 
